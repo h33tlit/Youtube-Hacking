@@ -4,7 +4,7 @@
 
 
 ## Introduction
-YouTube Hacking is a Python script designed to automate the process of uploading videos to YouTube and scheduling them for release. The script generates a captivating video montage with titles and subtitles, combining multiple background clips with text overlays. By utilizing the powerful libraries like `cv2`, `numpy`, `PIL`, and `moviepy`, along with the beauty of `ImageSequenceClip` and `concatenate_videoclips`, the script creates an engaging video experience.
+YouTube Hacking is a Python script designed to automate the process of uploading videos to YouTube and scheduling them for release. The script generates a captivating video montage with titles and subtitles, combining multiple background clips with text overlays. By utilizing the powerful libraries the script creates an engaging video experience.
 
 ## Features
 1. **Video Composition**: The script randomly selects three background clips from the available options and combines them to create a visually appealing video montage. Each background clip is played for a specified duration.
